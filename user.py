@@ -12,6 +12,7 @@ from io import BytesIO
 # # Load environment variables
 # from dotenv import load_dotenv
 # load_dotenv()
+os.environ["GROQ_API_KEY"] = "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"
 
 
 # Initialize the LLM
